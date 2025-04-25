@@ -1,0 +1,5 @@
+# ninja log v6
+31	208	7542588627968574	CMakeFiles/figsearch.c.dir/figsearchABC.c.obj	d9c52d3e5a22ff1a
+9	205	7542588627748413	CMakeFiles/figsearch.c.dir/figsearch-ultra.c.obj	c362b8732c229e96
+7	350	7542588879039831	build.ninja	efdc50b59e5cf1bb
+5	185	7542588879582315	figsearch.c.exe	2da42e051e8d04d4
